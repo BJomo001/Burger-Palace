@@ -1,0 +1,283 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Burger Palace - Fresh, delicious burgers delivered to your door.">
+  <title>Burger Palace | Taste the Difference</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <header class="header" id="home">
+    <a href="#home" class="logo">BUR<span>GER</span><br>PALACE<span>.</span></a>
+
+    <button class="menu-toggle" id="menu-toggle"
+      aria-label="Toggle navigation" aria-expanded="false">
+      ☰
+    </button>
+
+    <nav class="nav" id="nav">
+      <a href="#home">Home</a>
+      <a href="#services">Services</a>
+      <a href="#menu">Our Menu</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+      <a href="#menu" class="nav-order">Order Now</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">WELCOME TO BURGER PALACE</p>
+        <h1>Rain or shine,<br>it's time to <span>dine.</span></h1>
+        <p class="hero-description">
+          We cook and deliver the tastiest burgers right away
+          to your designated location.
+        </p>
+        <a href="#menu" class="btn">Order Now <span>→</span></a>
+        <p class="hero-note">Fresh ingredients. Amazing taste. Fast delivery.</p>
+      </div>
+
+      <div class="hero-image">
+        <img
+          src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1000&q=85"
+          alt="Juicy double cheeseburger with fresh lettuce and tomato">
+        <div class="image-label">
+          <span>Our Special</span>
+          <strong>Double Burger</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="services section" id="services">
+      <div class="section-heading">
+        <p class="eyebrow">WHY CHOOSE US?</p>
+        <h2>Good food, <span>great mood.</span></h2>
+      </div>
+
+      <div class="service-grid">
+        <article class="service-card">
+          <div class="service-icon">🍔</div>
+          <h3>Quality Burgers</h3>
+          <p>Fresh ingredients and delicious burgers prepared
+            with care for every bite.</p>
+        </article>
+
+        <article class="service-card">
+          <div class="service-icon">🛵</div>
+          <h3>Fast Delivery</h3>
+          <p>Get your favorite meals delivered conveniently
+            to your doorstep.</p>
+        </article>
+
+        <article class="service-card">
+          <div class="service-icon">🍟</div>
+          <h3>Delicious Meals</h3>
+          <p>Enjoy mouthwatering meals made to satisfy
+            your cravings any time.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="menu-section section" id="menu">
+      <div class="section-heading">
+        <p class="eyebrow">FRESH FROM OUR KITCHEN</p>
+        <h2>Explore our <span>menu.</span></h2>
+        <p>Find your favorite burger and make it a meal.</p>
+      </div>
+
+      <div class="menu-grid">
+        <article class="menu-card" data-name="Double Burger" data-price="200">
+          <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=700&q=80" alt="Double burger">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h3>Double Burger</h3>
+              <span class="price">KSh 200</span>
+            </div>
+            <p>Juicy beef, fresh lettuce, tomato and our special sauce.</p>
+            <div class="menu-actions">
+              <div class="quantity">
+                <button class="minus" aria-label="Decrease Double Burger quantity">−</button>
+                <span class="qty">0</span>
+                <button class="plus" aria-label="Increase Double Burger quantity">+</button>
+              </div>
+              <button class="add-btn">Add to Order</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="menu-card" data-name="Cheese Burger" data-price="250">
+          <img src="https://images.pexels.com/photos/18086478/pexels-photo-18086478.png" alt="Cheeseburger">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h3>Cheese Burger</h3>
+              <span class="price">KSh 250</span>
+            </div>
+            <p>Grilled beef topped with melted cheese and fresh vegetables.</p>
+            <div class="menu-actions">
+              <div class="quantity">
+                <button class="minus" aria-label="Decrease Cheese Burger quantity">−</button>
+                <span class="qty">0</span>
+                <button class="plus" aria-label="Increase Cheese Burger quantity">+</button>
+              </div>
+              <button class="add-btn">Add to Order</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="menu-card" data-name="Chicken Burger" data-price="300">
+          <img src="https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=700&q=80" alt="Chicken burger">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h3>Chicken Burger</h3>
+              <span class="price">KSh 300</span>
+            </div>
+            <p>Crispy chicken, crunchy lettuce and creamy house dressing.</p>
+            <div class="menu-actions">
+              <div class="quantity">
+                <button class="minus" aria-label="Decrease Chicken Burger quantity">−</button>
+                <span class="qty">0</span>
+                <button class="plus" aria-label="Increase Chicken Burger quantity">+</button>
+              </div>
+              <button class="add-btn">Add to Order</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="menu-card" data-name="Classic Burger" data-price="180">
+          <img src="https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=700&q=80" alt="Classic burger">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h3>Classic Burger</h3>
+              <span class="price">KSh 180</span>
+            </div>
+            <p>A timeless favorite with a grilled patty and signature sauce.</p>
+            <div class="menu-actions">
+              <div class="quantity">
+                <button class="minus" aria-label="Decrease Classic Burger quantity">−</button>
+                <span class="qty">0</span>
+                <button class="plus" aria-label="Increase Classic Burger quantity">+</button>
+              </div>
+              <button class="add-btn">Add to Order</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="menu-card" data-name="Burger and Fries" data-price="350">
+          <img src="https://images.pexels.com/photos/9328477/pexels-photo-9328477.jpeg" alt="Golden french fries">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h3>Burger & Fries</h3>
+              <span class="price">KSh 350</span>
+            </div>
+            <p>A satisfying combo for anyone who loves a hearty meal.</p>
+            <div class="menu-actions">
+              <div class="quantity">
+                <button class="minus" aria-label="Decrease Burger and Fries quantity">−</button>
+                <span class="qty">0</span>
+                <button class="plus" aria-label="Increase Burger and Fries quantity">+</button>
+              </div>
+              <button class="add-btn">Add to Order</button>
+            </div>
+          </div>
+        </article>
+
+        <article class="menu-card" data-name="Veggie Burger" data-price="220">
+          <img src="https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&w=700&q=80" alt="Vegetable burger">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h3>Veggie Burger</h3>
+              <span class="price">KSh 220</span>
+            </div>
+            <p>A tasty meat-free option loaded with fresh vegetables.</p>
+            <div class="menu-actions">
+              <div class="quantity">
+                <button class="minus" aria-label="Decrease Veggie Burger quantity">−</button>
+                <span class="qty">0</span>
+                <button class="plus" aria-label="Increase Veggie Burger quantity">+</button>
+              </div>
+              <button class="add-btn">Add to Order</button>
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div class="order-panel" id="order">
+        <div>
+          <p class="eyebrow">YOUR SELECTION</p>
+          <h3>Your Order</h3>
+          <p id="order-items">No items added yet.</p>
+        </div>
+        <div class="order-total">
+          <p>Total</p>
+          <strong id="order-total">KSh 0</strong>
+          <button class="btn checkout-btn" id="checkout">Place Order</button>
+        </div>
+      </div>
+      <p class="order-notice" id="order-notice" role="status" aria-live="polite"></p>
+    </section>
+
+    <section class="featured section" id="about">
+      <div class="featured-image">
+        <img src="https://images.pexels.com/photos/15114544/pexels-photo-15114544.jpeg" alt="Our signature double-decker burger">
+      </div>
+      <div class="featured-content">
+        <p class="eyebrow">A BURGER EXPERIENCE</p>
+        <h2>Meet the Double <span>Decker.</span></h2>
+        <p>Big flavor, delicious layers and the perfect combination
+          of fresh ingredients. Your next favorite meal is waiting.</p>
+        <a href="#menu" class="btn">Explore the Menu <span>→</span></a>
+      </div>
+    </section>
+
+    <section class="app-promo section">
+      <div>
+        <p class="eyebrow">GOOD FOOD IS JUST A CLICK AWAY</p>
+        <h2>Discover even more<br>with our <span>mobile apps.</span></h2>
+        <p>Enjoy a convenient way to explore our menu and plan your next meal.</p>
+        <a href="#contact" class="btn">Get in Touch <span>→</span></a>
+      </div>
+      <div class="app-emoji" aria-hidden="true">📱🍔</div>
+    </section>
+  </main>
+
+  <footer class="footer" id="contact">
+    <div class="footer-main">
+      <div>
+        <a href="#home" class="logo footer-logo">BUR<span>GER</span><br>PALACE<span>.</span></a>
+        <p>Fresh burgers. Happy people. Every day.</p>
+      </div>
+
+      <div>
+        <h3>Sitemap</h3>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+
+      <div class="newsletter">
+        <h3>Subscribe to our newsletter</h3>
+        <p>Get updates and special offers from Burger Palace.</p>
+        <form id="newsletter-form">
+          <label for="email">Email address</label>
+          <div class="newsletter-input">
+            <input type="email" id="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+          </div>
+          <p id="newsletter-message" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© <span id="year"></span> Burger Palace. All rights reserved.</p>
+      <a href="#home">Back to top ↑</a>
+    </div>
+  </footer>
+
+</body>
+</html>
