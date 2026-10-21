@@ -35,20 +35,31 @@ GitHub Pages Hosting — Publicly accessible through a live website link.
 🍟 Menu Highlights
 
 Menu Item	Price
+
 Classic Burger	KSh 180
+
 Double Burger	KSh 200
+
 Veggie Burger	KSh 220
+
 Cheese Burger	KSh 250
+
 Chicken Burger	KSh 300
+
 Burger & Fries	KSh 350
+
 Note: Prices reflect the menu displayed on the website and may change as the project is updated.
 
 🛠️ Technologies Used
 
 HTML5 — Structures the website content and sections.
+
 CSS3 — Styles the interface, layout, and visual presentation.
+
 JavaScript — Supports interactive elements such as menu quantity controls and order selection.
+
 Git & GitHub — Version control and source code hosting.
+
 GitHub Pages — Website deployment and hosting.
 
 🚀 Getting Started
@@ -60,8 +71,11 @@ Prerequisites
 You will need:
 
 A modern web browser such as Chrome, Firefox, or Edge.
+
 Git installed on your computer.
+
 A code editor such as Visual Studio Code.
+
 Installation
 
 1. Clone the repository
@@ -88,6 +102,7 @@ No package installation is required for a static HTML, CSS, and JavaScript proje
 
 Burger-Palace/
 │
+
 ├── index.html       # Main website structure
 
 ├── style.css        # Website styling
@@ -109,10 +124,14 @@ Visit the live project here:
 
 🌐 Live Website: https://bjomo001.github.io/Burger-Palace/
 
-Deploying Updates
+🎉Deploying Updates
+
 Commit your changes to the repository.
+
 Push your changes to GitHub.
+
 Ensure GitHub Pages is configured for the correct branch and folder in the repository settings.
+
 Wait for GitHub Pages to publish the updated website.
 
 🎯 Project Goals
@@ -120,23 +139,34 @@ Wait for GitHub Pages to publish the updated website.
 The main goals of Burger Palace are to:
 
 Create an attractive online presence for a burger restaurant.
+
 Present menu items and prices in a clear, accessible format.
+
 Improve the user experience through simple navigation and interactive ordering elements.
+
 Practice front-end web development using HTML, CSS, and JavaScript.
+
 Demonstrate how a static website can be deployed using GitHub Pages.
 
 🔮 Future Improvements
 
 Potential enhancements include:
 
-Improve responsiveness across mobile, tablet, and desktop screens.
-Add a fully functional shopping cart with persistent order state.
-Integrate an online payment gateway.
-Connect orders to a backend service or restaurant management system.
-Add customer reviews and ratings.
-Implement functional newsletter subscriptions.
-Add order confirmation and delivery tracking.
-Improve accessibility and search engine optimization (SEO).
+✔ Improve responsiveness across mobile, tablet, and desktop screens.
+
+✔ Add a fully functional shopping cart with persistent order state.
+
+✔ Integrate an online payment gateway.
+
+✔ Connect orders to a backend service or restaurant management system.
+
+✔ Add customer reviews and ratings.
+
+✔ Implement functional newsletter subscriptions.
+
+✔ Add order confirmation and delivery tracking.
+
+✔ Improve accessibility and search engine optimization (SEO).
 
 🤝 Contributing
 
@@ -145,9 +175,13 @@ Contributions, suggestions, and feedback are welcome!
 To contribute:
 
 Fork this repository.
+
 Create a new branch for your changes.
+
 Commit your improvements.
+
 Push your branch to GitHub.
+
 Open a pull request describing your changes.
 
 📄 License
