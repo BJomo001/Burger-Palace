@@ -103,7 +103,6 @@ No package installation is required for a static HTML, CSS, and JavaScript proje
 Burger-Palace/
 
 │
-
 ├── index.html       # Main website structure
 
 ├── style.css        # Website styling
