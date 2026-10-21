@@ -123,7 +123,7 @@ The website is hosted using GitHub Pages.
 
 Visit the live project here:
 
-🌐 Live Website: https://bjomo001.github.io/Burger-Palace/
+🌐 Live Website: [Burger Palace](https://bjomo001.github.io/Burger-Palace/)
 
 🎉Deploying Updates
 
