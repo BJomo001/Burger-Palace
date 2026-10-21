@@ -13,14 +13,23 @@ The website features an attractive layout, food imagery, clear pricing in Kenyan
 ✨ Features
 
 Responsive Navigation — Easily navigate between Home, Services, Our Menu, About, and Contact sections.
+
 Hero Section — A welcoming introduction with an engaging headline and an Order Now call to action.
+
 Restaurant Services — Highlights quality burgers, fast delivery, and delicious meals.
+
 Interactive Food Menu — Explore a variety of meals with images, descriptions, and prices.
+
 Quantity Selection — Increase or decrease the quantity of menu items.
+
 Order Summary — Review selected items and the total order price.
+
 Featured Burger Section — Showcases the signature Double Decker burger.
+
 Newsletter Subscription Section — Provides an interface for visitors to subscribe to updates and special offers.
+
 Contact Navigation — Offers a convenient way for visitors to find contact information.
+
 GitHub Pages Hosting — Publicly accessible through a live website link.
 
 🍟 Menu Highlights
@@ -80,10 +89,15 @@ No package installation is required for a static HTML, CSS, and JavaScript proje
 Burger-Palace/
 │
 ├── index.html       # Main website structure
+
 ├── style.css        # Website styling
+
 ├── script.js        # Interactive functionality
+
 ├── images/          # Images and other visual assets
+
 ├── LICENSE          # MIT License
+
 └── README.md        # Project documentation
 
 Note: Update the filenames in this structure if your repository uses different names or folders.
@@ -153,8 +167,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 bjomo001
 
 GitHub: @bjomo001
-
-Live Project: Burger Palace
 
 ⭐ If you like this project, consider giving the repository a star!
 
