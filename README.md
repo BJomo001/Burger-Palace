@@ -80,12 +80,12 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/bjomo001/Burger-Palace.git
+   `git clone https://github.com/bjomo001/Burger-Palace.git`
 
 
 2. Navigate to the project directory
 
-cd Burger-Palace
+   `cd Burger-Palace`
 
 
 3. Open the project
@@ -199,9 +199,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 👨‍💻 Author
 
-bjomo001
+[bjomo001](https://github.com/BJomo001)
 
-GitHub: @bjomo001
+GitHub: [@bjomo001](https://github.com/BJomo001)
 
 ⭐ If you like this project, consider giving the repository a star!
 
