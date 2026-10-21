@@ -1,16 +1,17 @@
-🍔 Burger Palace
+# 🍔 Burger Palace
+
 Fresh Burgers. Amazing Taste. Fast Delivery.
 
 Welcome to Burger Palace, a modern and visually appealing burger restaurant website designed to showcase delicious meals, highlight restaurant services, and provide customers with a simple way to explore the menu and build their orders.
 
 
-📸 About the Project
+## 📸 About the Project
 
 Burger Palace is a restaurant landing page focused on delivering an engaging online food experience. Visitors can discover the restaurant's offerings, explore different burger options, select quantities, and view their order summary.
 
 The website features an attractive layout, food imagery, clear pricing in Kenyan shillings (KSh), and convenient navigation.
 
-✨ Features
+## ✨ Features
 
 Responsive Navigation — Easily navigate between Home, Services, Our Menu, About, and Contact sections.
 
@@ -32,7 +33,7 @@ Contact Navigation — Offers a convenient way for visitors to find contact info
 
 GitHub Pages Hosting — Publicly accessible through a live website link.
 
-🍟 Menu Highlights
+## 🍟 Menu Highlights
 
 Menu Item	Price
 
@@ -50,7 +51,7 @@ Burger & Fries	KSh 350
 
 Note: Prices reflect the menu displayed on the website and may change as the project is updated.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 — Structures the website content and sections.
 
@@ -62,7 +63,7 @@ Git & GitHub — Version control and source code hosting.
 
 GitHub Pages — Website deployment and hosting.
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Follow these steps to run the project locally.
 
@@ -76,7 +77,7 @@ Git installed on your computer.
 
 A code editor such as Visual Studio Code.
 
-Installation
+## Installation
 
 1. Clone the repository
 
@@ -98,7 +99,7 @@ Installation
 
 No package installation is required for a static HTML, CSS, and JavaScript project.
 
-📂 Project Structure
+## 📂 Project Structure
 
 Burger-Palace/
 
@@ -117,15 +118,15 @@ Burger-Palace/
 └── README.md        # Project documentation
 
 Note: Update the filenames in this structure if your repository uses different names or folders.
-🌍 Deployment
+## 🌍 Deployment
 
 The website is hosted using GitHub Pages.
 
-Visit the live project here:
+## Visit the live project here:
 
 🌐 Live Website: [Burger Palace](https://bjomo001.github.io/Burger-Palace/)
 
-🎉Deploying Updates
+## 🎉Deploying Updates
 
 Commit your changes to the repository.
 
@@ -135,7 +136,7 @@ Ensure GitHub Pages is configured for the correct branch and folder in the repos
 
 Wait for GitHub Pages to publish the updated website.
 
-🎯 Project Goals
+## 🎯 Project Goals
 
 The main goals of Burger Palace are to:
 
@@ -149,7 +150,7 @@ The main goals of Burger Palace are to:
 
 ✔ Demonstrate how a static website can be deployed using GitHub Pages.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Potential enhancements include:
 
@@ -169,7 +170,7 @@ Potential enhancements include:
 
 ✔ Improve accessibility and search engine optimization (SEO).
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, suggestions, and feedback are welcome!
 
@@ -185,7 +186,7 @@ Push your branch to GitHub.
 
 Open a pull request describing your changes.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
@@ -197,7 +198,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Bjomo001
 
