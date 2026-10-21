@@ -90,11 +90,11 @@ Installation
 
 3. Open the project
 
-Open the project folder in your preferred code editor.
+   Open the project folder in your preferred code editor.
 
 4. Run the website
 
-Open the index.html file in your browser, or use the Live Server extension in Visual Studio Code for local development.
+   Open the index.html file in your browser, or use the Live Server extension in Visual Studio Code for local development.
 
 No package installation is required for a static HTML, CSS, and JavaScript project.
 
@@ -199,7 +199,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 👨‍💻 Author
 
-[bjomo001](https://github.com/BJomo001)
+Bjomo001
 
 GitHub: [@bjomo001](https://github.com/BJomo001)
 
