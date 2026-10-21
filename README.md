@@ -139,15 +139,15 @@ Wait for GitHub Pages to publish the updated website.
 
 The main goals of Burger Palace are to:
 
-Create an attractive online presence for a burger restaurant.
+✔ Create an attractive online presence for a burger restaurant.
 
-Present menu items and prices in a clear, accessible format.
+✔ Present menu items and prices in a clear, accessible format.
 
-Improve the user experience through simple navigation and interactive ordering elements.
+✔ Improve the user experience through simple navigation and interactive ordering elements.
 
-Practice front-end web development using HTML, CSS, and JavaScript.
+✔ Practice front-end web development using HTML, CSS, and JavaScript.
 
-Demonstrate how a static website can be deployed using GitHub Pages.
+✔ Demonstrate how a static website can be deployed using GitHub Pages.
 
 🔮 Future Improvements
 
@@ -189,7 +189,7 @@ Open a pull request describing your changes.
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2026 bjomo001
+Copyright (c) 2026 Bjomo001
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -201,7 +201,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Bjomo001
 
-GitHub: [@bjomo001](https://github.com/BJomo001)
+GitHub: [@Bjomo001](https://github.com/BJomo001)
 
 ⭐ If you like this project, consider giving the repository a star!
 
