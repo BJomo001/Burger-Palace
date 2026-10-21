@@ -11,6 +11,7 @@ Burger Palace is a restaurant landing page focused on delivering an engaging onl
 The website features an attractive layout, food imagery, clear pricing in Kenyan shillings (KSh), and convenient navigation.
 
 ✨ Features
+
 Responsive Navigation — Easily navigate between Home, Services, Our Menu, About, and Contact sections.
 Hero Section — A welcoming introduction with an engaging headline and an Order Now call to action.
 Restaurant Services — Highlights quality burgers, fast delivery, and delicious meals.
@@ -21,7 +22,9 @@ Featured Burger Section — Showcases the signature Double Decker burger.
 Newsletter Subscription Section — Provides an interface for visitors to subscribe to updates and special offers.
 Contact Navigation — Offers a convenient way for visitors to find contact information.
 GitHub Pages Hosting — Publicly accessible through a live website link.
+
 🍟 Menu Highlights
+
 Menu Item	Price
 Classic Burger	KSh 180
 Double Burger	KSh 200
@@ -30,12 +33,15 @@ Cheese Burger	KSh 250
 Chicken Burger	KSh 300
 Burger & Fries	KSh 350
 Note: Prices reflect the menu displayed on the website and may change as the project is updated.
+
 🛠️ Technologies Used
+
 HTML5 — Structures the website content and sections.
 CSS3 — Styles the interface, layout, and visual presentation.
 JavaScript — Supports interactive elements such as menu quantity controls and order selection.
 Git & GitHub — Version control and source code hosting.
 GitHub Pages — Website deployment and hosting.
+
 🚀 Getting Started
 
 Follow these steps to run the project locally.
@@ -70,6 +76,7 @@ Open the index.html file in your browser, or use the Live Server extension in Vi
 No package installation is required for a static HTML, CSS, and JavaScript project.
 
 📂 Project Structure
+
 Burger-Palace/
 │
 ├── index.html       # Main website structure
@@ -93,6 +100,7 @@ Commit your changes to the repository.
 Push your changes to GitHub.
 Ensure GitHub Pages is configured for the correct branch and folder in the repository settings.
 Wait for GitHub Pages to publish the updated website.
+
 🎯 Project Goals
 
 The main goals of Burger Palace are to:
@@ -102,6 +110,7 @@ Present menu items and prices in a clear, accessible format.
 Improve the user experience through simple navigation and interactive ordering elements.
 Practice front-end web development using HTML, CSS, and JavaScript.
 Demonstrate how a static website can be deployed using GitHub Pages.
+
 🔮 Future Improvements
 
 Potential enhancements include:
@@ -114,6 +123,7 @@ Add customer reviews and ratings.
 Implement functional newsletter subscriptions.
 Add order confirmation and delivery tracking.
 Improve accessibility and search engine optimization (SEO).
+
 🤝 Contributing
 
 Contributions, suggestions, and feedback are welcome!
@@ -125,6 +135,7 @@ Create a new branch for your changes.
 Commit your improvements.
 Push your branch to GitHub.
 Open a pull request describing your changes.
+
 📄 License
 
 This project is licensed under the MIT License.
@@ -142,6 +153,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 bjomo001
 
 GitHub: @bjomo001
+
 Live Project: Burger Palace
 
 ⭐ If you like this project, consider giving the repository a star!
