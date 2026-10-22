@@ -81,7 +81,7 @@ A code editor such as Visual Studio Code.
 
 1. Clone the repository
 
-   `git clone https://github.com/bjomo001/Burger-Palace.git`
+   `git clone https://github.com/BJomo001/Burger-Palace.git`
 
 
 2. Navigate to the project directory
@@ -190,7 +190,7 @@ Open a pull request describing your changes.
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2026 Bjomo001
+Copyright (c) 2026 BJomo001
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -200,9 +200,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## 👨‍💻 Author
 
-Bjomo001
+BJomo001
 
-GitHub: [@Bjomo001](https://github.com/BJomo001)
+GitHub: [@BJomo001](https://github.com/BJomo001)
 
 ⭐ If you like this project, consider giving the repository a star!
 
