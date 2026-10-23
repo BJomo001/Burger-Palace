@@ -118,6 +118,7 @@ Burger-Palace/
 └── README.md        # Project documentation
 
 Note: Update the filenames in this structure if your repository uses different names or folders.
+
 ## 🌍 Deployment
 
 The website is hosted using GitHub Pages.
